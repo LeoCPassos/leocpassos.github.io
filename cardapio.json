@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Dois Queijos",
+        "desc": "Molho de tomate, mussarela, catupiri",
+        "price": "R$ 20,00",
+        "image": "pizza.png"
+    },
+    {
+        "id": 2,
+        "name": "Pizza Três Queijos",
+        "desc": "Molho de tomate, mussarela, catupiri BBBBBBBBB",
+        "price": "R$ 20,00",
+        "image": "pizza.png"
+    },
+    {
+        "id": 3,
+        "name": "Pizza Quatro Queijos",
+        "desc": "Molho de tomate, mussarela, catupiri AAAA",
+        "price": "R$ 20,00",
+        "image": "pizza.png"
+    },
+    {
+        "id": 4,
+        "name": "Pizza Genérica",
+        "desc": "Ingredientes aqui",
+        "price": "R$ 2,00",
+        "image": "pizza.png"
+    }
+]
