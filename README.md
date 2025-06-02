@@ -1,2 +1,2 @@
-# LeoCPassos.github.io
+# leocpassos.github.io
 Legal
